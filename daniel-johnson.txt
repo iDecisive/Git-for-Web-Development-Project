@@ -1,4 +1,4 @@
-Completed codepin: https://codepen.io/BritHemming/pen/eYYEoPa?editors=1100
+Completed codepin: https://codepen.io/Decisive/pen/ZEbzGYq
 
     1. What is Semantic HTML? 
     2. What is HTML used for? 
